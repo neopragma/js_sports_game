@@ -26,13 +26,17 @@ project/
   |
   +-- index.html
   |
-  +-- styles/
+  +-- audio/
   |    |
-  |    +-- site.css   (another common name: default.css)
-  |
+  |    +-- (audio files here)
+  |  |
   +-- scripts/
+  |    |
+  |    +-- game.js
+  | 
+  +-- styles/
        |
-       +-- game.js 
+       +-- site.css   (another common name: default.css)
 
 
 
